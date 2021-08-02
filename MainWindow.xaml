@@ -8,6 +8,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <controls:WebView Source="https://www.google.com"></controls:WebView>
+        <controls:WebView Source="https://www.radipu.me"></controls:WebView>
     </Grid>
 </Window>
